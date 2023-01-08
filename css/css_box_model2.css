@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    line-height: 80px;
+    background-color: #429b9e;
+    background-size:cover;
+    /* background-image: url(/images/dog.jpg); */
+    background-image: url(../images/dog.jpg);
+    text-align: center;
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: justify; */
+    margin: auto;
+    border: 2px solid red;
+    padding: 10px;
+    box-sizing: border-box;
+    word-break: break-all;
+    color:rgb(228, 255, 234);
+    font-size: 50px;
+    font-weight: 400;
+    font-family: 'East Sea Dokdo', cursive;
+}
